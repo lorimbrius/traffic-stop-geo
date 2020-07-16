@@ -1,0 +1,261 @@
+Juris,Date,Call#,CFS,Location,Sex,Race,Age,Residence,Reason for the Stop,Disposition,Race
+SH,09/09/19 08:09,19.009580,TS,"1700BLK E Capitol Dr;SH, Shorewood, WI 53211",F,A,33,"Shorewood, WI",No seatbelt,CIT,A
+SH,09/16/19 10:23,19.009868,TS,"3800BLK N Maryland Ave;SH, Shorewood, WI 53211",M,A,25,"Milwaukee, WI",Expired registration,CIT,A
+SH,09/25/19 11:00,19.010273,TS,"3300BLK N Oakland Ave, WI 53211",M,A,43,"Shorewood, WI",Failure to yield right of way,CIT,A
+SH,09/03/19 12:49,19.009324,TS,"4000 N Wilson Dr,LOT;SH, Shorewood, WI 53211",F,B,19,"Glendale, WI",Registration check showed owner has suspended license ,CIT,B
+SH,09/03/19 13:15,19.009326,TS,"3900BLK N Prospect Ave;SH, Shorewood, WI 53211",F,B,22,"Milwaukee, WI",No license plate displayed,CIT,B
+SH,09/03/19 16:25,19.009336,TS,"1900BLK E Capitol Dr;SH, Shorewood, WI 53211",M,B,31,"Milwaukee, WI",No seatbelt,CIT,B
+SH,09/03/19 17:50,19.009341,TS,"3800BLK N Maryland Ave;SH, Shorewood, WI 53211",F,B,20,"Milwaukee, WI",No seatbelt,CIT,B
+SH,09/04/19 07:40,19.009349,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,B,41,"Milwaukee, WI",Broken windshield,CIT,B
+SH,09/04/19 08:33,19.009356,TS,"E. Capitol Dr/N. Richards St. , Milwaukee, WI 53211",F,B,23,"Milwaukee, WI",No seatbelt,CIT,B
+SH,09/04/19 11:52,19.009370,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",F,B,28,"Milwaukee, WI",Illegal turn,CIT,B
+SH,09/04/19 16:56,19.009385,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,B,32,"Milwaukee, WI",Suspended registration,CIT,B
+SH,09/05/19 16:34,19.009432,TS,"3800BLK N Maryland Ave;SH, Shorewood, WI 53211",M,B,20,"Glendale, WI",Display false registration,CIT,B
+SH,09/06/19 02:45,19.009464,TS,"4000BLK N Humboldt Ave, Milwaukee, WI 53211",M,B,30,"Milwaukee, WI",Speeding,CIT,B
+SH,09/07/19 20:22,19.009534,TS,"3600BLK N Oakland Ave;SH, Shorewood, WI 53211",M,B,55,"Milwaukee, WI",Defective brake light,CIT,B
+SH,09/10/19 16:23,19.009644,TS,"1325 E Capitol Dr,LOT;SH, Shorewood, WI 53211",M,B,30,"Milwaukee, WI",No license plate displayed,CIT,B
+SH,09/12/19 12:54,19.009704,TS,"2000BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,31,"Shorewood, WI",Expired registration,CIT,B
+SH,09/14/19 19:53,19.009806,TS,"3900BLK N Morris Blvd;SH, Shorewood, WI 53211",M,B,34,"Milwaukee, WI",Illegal turn,CIT,B
+SH,09/15/19 19:47,19.009844,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",F,B,30,"Milwaukee, WI",Illegal turn,CIT,B
+SH,09/17/19 00:15,19.009893,TS,"3800BLK N Oakland Ave;SH, Shorewood, WI 53211",M,B,23,"Milwaukee, WI",Speeding,CIT,B
+SH,09/19/19 18:57,19.010009,TS,"4000BLK N Morris Blvd;SH, Shorewood, WI 53211",F,B,40,"Milwaukee, WI",No license plate displayed,CIT,B
+SH,09/19/19 21:21,19.010019,TS,"3600BLK N Oakland Ave;SH, Shorewood, WI 53211",M,B,54,"Milwaukee, WI",Non-registration of vehicle,CIT,B
+SH,09/19/19 22:22,19.010026,TS,"4100BLK N Stowell Ave;SH, Shorewood, WI 53211",M,B,24,"Milwaukee, WI",Non-registration of vehicle,CIT,B
+SH,09/20/19 13:29,19.010042,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,B,44,"Milwaukee, WI",Expired registration,CIT,B
+SH,09/20/19 21:12,19.010067,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,B,22,"Milwaukee, WI",Display false registration,CIT,B
+SH,09/21/19 10:24,19.010096,TS,"1700BLK E Kenmore Pl;SH, Shorewood, WI 53211",M,B,30,"Whitefish Bay, WI",Non-registration of vehicle,CIT,B
+SH,09/21/19 22:42,19.010114,TS,"1300BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,42,"Milwaukee, WI",Speeding,CIT,B
+SH,09/22/19 05:43,19.010124,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,19,"Milwaukee, WI",Speeding,CIT,B
+SH,09/24/19 01:15,19.010207,TS,"1700BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,54,"Milwaukee, WI",Display false registration,CIT,B
+SH,09/24/19 02:47,19.010210,TS,"3700BLK N Oakland Ave;SH, Shorewood, WI 53211",M,B,26,"Milwaukee, WI",Speeding,CIT,B
+SH,09/25/19 06:05,19.010263,TS,1100BLK E Capitol Dr;SH,M,B,21,"Milwaukee, WI",Speeding,CIT,B
+SH,09/25/19 21:08,19.010294,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",M,B,20,"Dayton, OH",Speeding,CIT,B
+SH,09/27/19 05:49,19.010347,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,61,"Milwaukee, WI",Speeding,CIT,B
+SH,09/27/19 10:29,19.010357,TS,"1600BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,23,"Milwaukee, WI",Expired registration,CIT,B
+SH,09/27/19 11:55,19.010360,TS,1100BLK E Capitol Dr;SH,M,B,27,"Milwaukee, WI",Display false registration,CIT,B
+SH,09/30/19 23:56,19.010456,TS,"3900BLK N Cramer St;SH, Shorewood, WI 53211",M,B,21,"Milwaukee, WI",Speeding,CIT,B
+SH,09/01/19 22:06,19.009257,TS,"1000BLK E Capitol Dr, Milwaukee, WI 53211",M,W,28,"Milwaukee, WI",Registration check showed owner has suspended license ,CIT,W
+SH,09/02/19 00:03,19.009268,TS,"2000BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,25,"Shorewood, WI",Defective headlight,CIT,W
+SH,09/02/19 21:25,19.009296,TS,"E Capitol Dr/N Stowell Ave;SH, Shorewood, WI 53211",M,W,46,"Milwaukee, WI",Speeding,CIT,W
+SH,09/03/19 08:08,19.009309,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",M,W,39,"Shorewood, WI",Illegal turn,CIT,W
+SH,09/03/19 08:54,19.009312,TS,"2300BLK E Edgewood Ave;SH, Shorewood, WI 53211",M,W,33,"Milwaukee, WI",Failure to obey a sign,CIT,W
+SH,09/03/19 11:17,19.009319,TS,"3900BLK N Lake Dr;SH, Shorewood, WI 53211",M,W,24,"Hartford, WI",No seatbelt,CIT,W
+SH,09/03/19 14:59,19.009329,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,27,"Shorewood, WI",No seatbelt,CIT,W
+SH,09/03/19 15:23,19.009332,TS,"1900BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,69,"Milwaukee, WI",No seatbelt,CIT,W
+SH,09/03/19 15:55,19.009334,TS,"2600BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,22,"Oak Creek, WI",No seatbelt,CIT,W
+SH,09/03/19 16:56,19.009338,TS,"3800BLK N Downer Ave;SH, Shorewood, WI 53211",F,W,74,"Shorewood, WI",No seatbelt,CIT,W
+SH,09/03/19 18:17,19.009343,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,54,"Milwaukee, WI",No seatbelt,CIT,W
+SH,09/04/19 08:06,19.009354,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,53,"Shorewood, WI",No seatbelt,CIT,W
+SH,09/04/19 09:21,19.009358,TS,"1500BLK E Olive St;SH, Shorewood, WI 53211",F,W,36,"Milwaukee, WI",No seatbelt,CIT,W
+SH,09/04/19 10:03,19.009362,TS,"3300BLK N Oakland Ave; Milwaukee, WI 53211",M,W,22,"Pleasant Prairie, WI",No seatbelt,CIT,W
+SH,09/04/19 11:38,19.009369,TS,"E Capitol Dr/N Murray Ave;SH, Shorewood, WI 53211",M,W,41,"Shorewood, WI",Expired registration,CIT,W
+SH,09/04/19 13:54,19.009374,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,75,"Milwaukee, WI",Illegal turn,CIT,W
+SH,09/04/19 17:43,19.009387,TS,"3600BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,27,"Whitefish Bay, WI",Expired registration,CIT,W
+SH,09/05/19 18:57,19.009442,TS,"4000BLK N Newhall St;SH, Shorewood, WI 53211",F,W,25,"Wausau, WI",Expired registration,CIT,W
+SH,09/05/19 21:11,19.009447,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,34,"Wauwatosa, WI",Defective headlight,CIT,W
+SH,09/06/19 09:54,19.009471,TS,"1800BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,65,"Shorewood, WI",Expired registration,CIT,W
+SH,09/06/19 10:37,19.009473,TS,"1700BLK E River Park Ct;SH, Shorewood, WI 53211",F,W,37,"Shorewood, WI",Suspended registration,CIT,W
+SH,09/06/19 19:43,19.009498,TS,"4100BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,17,"Shorewood, WI",No seatbelt,CIT,W
+SH,09/07/19 01:05,19.009509,TS,"1300BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,19,"Sussex, WI",Defective brake light,CIT,W
+SH,09/07/19 20:51,19.009535,TS,"3900BLK N Humboldt Ave, Milwaukee, 53211",F,W,24,"Milwaukee, WI",Operating w/o headlights,CIT,W
+SH,09/08/19 12:55,19.009563,TS,"4000BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,27,"Milwaukee, WI",Expired registration,CIT,W
+SH,09/08/19 13:30,19.009564,TS,"4000BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,49,"Milwaukee, WI",Non-registration of vehicle,CIT,W
+SH,09/08/19 23:58,19.009571,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,28,"Milwaukee, WI",Failure to obey a sign,CIT,W
+SH,09/09/19 07:46,19.009578,TS,"1700BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,49,"Shorewood, WI",No seatbelt,CIT,W
+SH,09/09/19 09:54,19.009586,TS,"3900BLK N Downer Ave;SH, Shorewood, WI 53211",F,W,18,"Sussex, WI",No seatbelt,CIT,W
+SH,09/09/19 10:12,19.009588,TS,"4600BLK N Oakland Ave;WF, Whitefish Bay, WI 53211",F,W,34,"Milwaukee, WI",No seatbelt,CIT,W
+SH,09/10/19 20:30,19.009651,TS,"2521 E Capitol Dr,LOT;SH, Shorewood, WI 53211",M,W,23,"Milwaukee, WI",Suspended registration,CIT,W
+SH,09/13/19 17:32,19.009761,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,70,"Milwaukee, WI",Defective brake light,CIT,W
+SH,09/14/19 14:31,19.009794,TS,"4100BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,21,"Milwaukee, WI",No seatbelt,CIT,W
+SH,09/14/19 20:51,19.009808,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,23,"Manitowoc, WI",Suspended registration,CIT,W
+SH,09/16/19 00:09,19.009851,TS,"2000BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,18,"Jackson, WI",Speeding,CIT,W
+SH,09/18/19 07:36,19.009942,TS,"3600BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,36,"Milwaukee, WI",Expired registration,CIT,W
+SH,09/18/19 08:23,19.009945,TS,"4400BLK N Wilson Dr;SH, Shorewood, WI 53211",M,W,24,"Milwaukee, WI",Speeding,CIT,W
+SH,09/18/19 20:21,19.009968,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,55,"Milwaukee, WI",Expired registration,CIT,W
+SH,09/19/19 05:27,19.009988,TS,"4000BLK N Downer Ave;SH, Shorewood, WI 53211",M,W,44,"Milwaukee, WI",Defective brake light,CIT,W
+SH,09/19/19 20:57,19.010017,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",M,W,28,"Milwaukee, WI",Expired registration,CIT,W
+SH,09/19/19 21:39,19.010021,TS,"1700BLK E Lake Bluff Blvd;SH, Shorewood, WI 53211",M,W,34,"Shorewood, WI",Registration check showed owner has suspended license ,CIT,W
+SH,09/20/19 06:16,19.010034,TS,"4600BLK N Wilson Dr,PARK;WF, Whitefish Bay, WI 53211",M,W,29,"Shorewood, WI",Speeding,CIT,W
+SH,09/20/19 16:01,19.010049,TS,"3500BLK N Lake Dr;SH, Shorewood, WI 53211",M,W,23,"Mequon, WI",Failure to obey a sign,CIT,W
+SH,09/20/19 19:17,19.010059,TS,"3900BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,51,"Milwaukee, WI",Illegal turn,CIT,W
+SH,09/20/19 22:18,19.010071,TS,"1604 E Capitol Dr;SH, Shorewood, WI 53211",M,W,21,"Oconomowoc, WI",Registration check showed owner has suspended license ,CIT,W
+SH,09/21/19 01:26,19.010086,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,19,"Racine, WI",Defective tail light,CIT,W
+SH,09/22/19 06:03,19.010125,TS,"3900BLK N Morris Blvd;SH, Shorewood, WI 53211",M,W,54,"Mequon, WI",Illegal turn,CIT,W
+SH,09/23/19 17:27,19.010179,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,39,"Milwaukee, WI",Illegal turn,CIT,W
+SH,09/24/19 06:38,19.010221,TS,"4200BLK N Wilson Dr;SH, Shorewood, WI 53211",M,W,24,"Milwaukee, WI",Speeding,CIT,W
+SH,09/25/19 02:21,19.010255,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,25,"Shorewood, WI",Failure to obey traffic signal,CIT,W
+SH,09/25/19 06:21,19.010266,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,62,"Milwaukee, WI",Defective tail light,CIT,W
+SH,09/25/19 14:12,19.010279,TS,"3900BLK N Lake Dr;SH, Shorewood, WI 53211",M,W,48,"Milwaukee, WI",Non-registration of vehicle,CIT,W
+SH,09/25/19 15:55,19.010281,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,58,"Whitefish Bay, WI",Illegal turn,CIT,W
+SH,09/26/19 15:50,19.010324,TS,"3700BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,25,"Middleton, WI",Expired registration,CIT,W
+SH,09/27/19 06:07,19.010349,TS,"4000BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,28,"Greendale, WI",Speeding,CIT,W
+SH,09/28/19 08:25,19.010385,TS,"4000BLK N Bartlett Ave;SH, Shorewood, WI 53211",F,W,26,"Shorewood, WI",Expired registration,CIT,W
+SH,09/30/19 23:31,19.010453,TS,"E Capitol Dr/N Morris Blvd;SH, Shorewood, WI 53211",M,W,25,"Menomonee Falls, WI",Defective headlight,CIT,W
+SH,09/04/19 11:23,19.009367,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,38,"Milwaukee, WI",Registration check showed owner has suspended license ,FIN,B
+SH,09/02/19 20:36,19.009294,TS,"E Capitol Dr/N Oakland Ave;SH, Shorewood, WI 53211",M,W,24,"Milwaukee, WI",Vehicle was listed as stolen,FIN,W
+SH,09/11/19 22:14,19.009683,TS,1100BLK E Capitol Dr;SH,M,B,22,"Milwaukee, WI",Operating w/o headlights,IR,B
+SH,09/15/19 20:18,19.009846,TS,1300BLK E Capitol Dr;SH,M,B,16,"Milwaukee, WI",Operating w/o headlights,IR,B
+SH,09/21/19 01:25,19.010084,TS,3600BLK N Oakland Ave;SH,M,B,29,"Milwaukee, WI",Hit and run,IR,B
+SH,09/21/19 15:55,19.010105,TS,"900BLK E Kensington Blvd;SH, Shorewood, WI 53211",M,B,54,"Milwaukee, WI",Speeding,IR,B
+SH,09/23/19 18:36,19.010184,TS,"1305 E Capitol Dr,BLDG;SH",M,B,18,"Milwaukee, WI",Suspended registration,IR,B
+SH,09/24/19 16:50,19.010239,TS,E Capitol Dr/N Estabrook Pkwy;SH,F,B,24,"Milwaukee, WI",Registration check showed owner has suspended license ,IR,B
+SH,09/14/19 01:58,19.009777,TS,"4000BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,59,"Milwaukee, WI",Failure to obey traffic signal,IR,W
+SH,09/14/19 00:47,19.009775,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",F,A,21,"Milwaukee, WI",Defective headlight,WAR,A
+SH,09/14/19 21:23,19.009811,TS,"1700BLK E Capitol Dr;SH, Shorewood, WI 53211",F,A,53,"Whitefish Bay, WI",Operating w/o headlights,WAR,A
+SH,09/15/19 18:37,19.009839,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,A,57,"Milwaukee, WI",Failure to obey traffic signal,WAR,A
+SH,09/15/19 20:12,19.009845,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",M,A,28,"Milwaukee, WI",Operating w/o headlights,WAR,A
+SH,09/20/19 20:51,19.010065,TS,"4000BLK N Oakland Ave;SH, Shorewood, WI 53211",M,A,21,"Milwaukee, WI",Display false registration,WAR,A
+SH,09/21/19 21:32,19.010111,TS,"1400BLK E Capitol Dr;SH, Shorewood, WI 53211",M,A,40,"Milwaukee, WI",Failure to obey a sign,WAR,A
+SH,09/25/19 19:41,19.010289,TS,"3500BLK N Maryland Ave;SH, Shorewood, WI 53211",M,A,42,"Shorewood, WI",Failure to obey a sign,WAR,A
+SH,09/25/19 21:27,19.010295,TS,"4700BLK N Wilson Dr;WF, Whitefish Bay, WI 53211",M,A,61,"Brown Deer, WI",Operating w/o headlights,WAR,A
+SH,09/01/19 14:10,19.009243,TS,"4100BLK N Estabrook Pkwy;SH, Shorewood, WI 53211",M,B,31,"Milwaukee, WI",Speeding,WAR,B
+SH,09/01/19 22:56,19.009259,TS,"N Cramer St/E Capitol Dr;SH, Shorewood, WI 53211",F,B,29,"Milwaukee, WI",Driving wrong way on one way street,WAR,B
+SH,09/01/19 23:38,19.009264,TS,"1200BLK E Capitol Dr;SH, Shorewood, WI 53211",M,B,34,"Milwaukee, WI",Speeding,WAR,B
+SH,09/02/19 01:30,19.009274,TS,"2000BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,31,"Milwaukee, WI",Speeding,WAR,B
+SH,09/02/19 01:44,19.009276,TS,"1800BLK E Beverly Rd;SH, Shorewood, WI 53211",M,B,28,"Chicago, IL",No license plate displayed,WAR,B
+SH,09/03/19 08:31,19.009310,TS,"1111 E Capitol Dr,BLDG;SH, Shorewood, WI 53211",M,B,37,"Whitefish Bay, WI",Failure to obey traffic signal,WAR,B
+SH,09/04/19 10:19,19.009363,TS,"1530 E Capitol Dr,LOT;SH, Shorewood, WI 53211",M,B,22,"Milwaukee, WI",No seatbelt,WAR,B
+SH,09/04/19 11:04,19.009365,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",M,B,63,"Milwaukee, WI",Failure to obey a sign,WAR,B
+SH,09/04/19 23:43,19.009393,TS,"4200BLK N Wilson Dr;SH, Shorewood, WI 53211",F,B,34,"Milwaukee, WI",Defective headlight,WAR,B
+SH,09/05/19 20:57,19.009446,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",F,B,21,"Wauwatosa, WI",Illegal turn,WAR,B
+SH,09/08/19 10:45,19.009558,TS,"4600BLK N Estabrook Pkwy;SH, Shorewood, WI 53211",F,B,24,"Milwaukee, WI",Speeding,WAR,B
+SH,09/09/19 09:17,19.009585,TS,"4000BLK N Wilson Dr;SH, Shorewood, WI 53211",F,B,60,"Milwaukee, WI",Expired registration,WAR,B
+SH,09/13/19 23:19,19.009770,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,34,"Milwaukee, WI",Speeding,WAR,B
+SH,09/15/19 18:55,19.009841,TS,"4400BLK N Wilson Dr;SH, Shorewood, WI 53211",M,B,31,"Milwaukee, WI",Speeding,WAR,B
+SH,09/15/19 23:18,19.009849,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",M,B,41,"Milwaukee, WI",Defective headlight,WAR,B
+SH,09/16/19 06:08,19.009859,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,B,29,"Milwaukee, WI",Speeding,WAR,B
+SH,09/16/19 15:39,19.009882,TS,"4000BLK N Estabrook Pkwy;SH, Shorewood, WI 53211",M,B,42,"Milwaukee, WI",Speeding,WAR,B
+SH,09/18/19 00:37,19.009937,TS,"3900BLK N Morris Blvd;SH, Shorewood, WI 53211",M,B,58,"Milwaukee, WI",Defective headlight,WAR,B
+SH,09/18/19 06:07,19.009941,TS,"4600BLK N Wilson Dr,PARK;WF, Whitefish Bay, WI 53211",F,B,60,"Milwaukee, WI",Speeding,WAR,B
+SH,09/20/19 11:10,19.010040,TS,"1700BLK E Menlo Blvd;SH, Shorewood, WI 53211",M,B,24,"Glendale, WI",Speeding,WAR,B
+SH,09/20/19 19:07,19.010058,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,57,"Whitefish Bay, WI",Illegal turn,WAR,B
+SH,09/20/19 21:00,19.010066,TS,"1800BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,27,"Milwaukee, WI",Illegal turn,WAR,B
+SH,09/20/19 21:23,19.010068,TS,"E Capitol Dr/N Humboldt Ave, Milwaukee, WI 53211",F,B,43,"Milwaukee, WI",Non-registration of vehicle,WAR,B
+SH,09/21/19 22:27,19.010113,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",M,B,39,"Milwaukee, WI",Operating w/o headlights,WAR,B
+SH,09/23/19 01:34,19.010151,TS,"3400BLK N Oakland Ave;Milwaukee, WI 53211",M,B,49,"Milwaukee, WI",Speeding,WAR,B
+SH,09/23/19 12:26,19.010165,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",M,B,26,"Milwaukee, WI",Failure to obey a sign,WAR,B
+SH,09/23/19 19:20,19.010188,TS,"E Kenmore Pl/N Wilson Dr;SH, Shorewood, WI 53211",M,B,17,"Milwaukee, WI",Non-registration of vehicle,WAR,B
+SH,09/23/19 19:23,19.010189,TS,"1 Not Verified Way;SH, Shorewood, WI 53211",M,B,40,"Milwaukee, WI",Speeding,WAR,B
+SH,09/24/19 00:48,19.010206,TS,"3800BLK N Oakland Ave;SH, Shorewood, WI 53211",F,B,29,"Milwaukee, WI",Defective headlight,WAR,B
+SH,09/24/19 06:13,19.010218,TS,"1600BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,50,"Milwaukee, WI",Defective headlight,WAR,B
+SH,09/25/19 16:21,19.010282,TS,"4000BLK N Estabrook Pkwy;SH, Shorewood, WI 53211",F,B,29,"Milwaukee, WI",Suspended registration,WAR,B
+SH,09/25/19 17:41,19.010284,TS,"4700BLK N Oakland Ave;WF, Whitefish Bay, WI 53211",F,B,24,"Milwaukee, WI",Non-registration of vehicle,WAR,B
+SH,09/25/19 19:22,19.010288,TS,"900BLK E Kensington Blvd;SH, Shorewood, WI 53211",M,B,51,"Milwaukee, WI",Failure to dim high beam headlights,WAR,B
+SH,09/26/19 10:12,19.010316,TS,"4100BLK N Maryland Ave;SH, Shorewood, WI 53211",M,B,25,"Milwaukee, WI",Failure to obey a sign,WAR,B
+SH,09/26/19 17:06,19.010327,TS,"4000BLK N Wilson Dr;SH, Shorewood, WI 53211",M,B,30,"Milwaukee, WI",Non-registration of vehicle,WAR,B
+SH,09/27/19 05:47,19.010346,TS,"4000BLK N Newhall St;SH, Shorewood, WI 53211",M,B,44,"Milwaukee, WI",Speeding,WAR,B
+SH,09/27/19 05:51,19.010348,TS,"1300BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,54,"Milwaukee, WI",Speeding,WAR,B
+SH,09/27/19 06:09,19.010350,TS,"1600BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,50,"Milwaukee, WI",Speeding,WAR,B
+SH,09/27/19 18:05,19.010369,TS,"100BLK E Capitol Dr;GL, Glendale, WI 53212",F,B,24,"Racine, WI",Suspended registration,WAR,B
+SH,09/28/19 00:02,19.010374,TS,"4000BLK N Bartlett Ave;SH, Shorewood, WI 53211",M,B,47,"Glendale, WI",Unsafe lane deviation,WAR,B
+SH,09/29/19 00:41,19.010401,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,B,28,"Brown Deer, WI",Speeding,WAR,B
+SH,09/30/19 00:41,19.010422,TS,"3300BLK N Oakland Ave, Milwaukee, WI 53211",M,B,19,"Milwaukee, WI",Speeding,WAR,B
+SH,09/30/19 05:37,19.010426,TS,"1800BLK E Edgewood Ave;SH, Shorewood, WI 53211",F,B,51,"Milwaukee, WI",Defective tail light,WAR,B
+SH,09/30/19 09:27,19.010433,TS,"2100BLK E Capitol Dr;SH, Shorewood, WI 53211",M,B,37,"Milwaukee, WI",Failure to obey a sign,WAR,B
+SH,09/30/19 23:27,19.010452,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",F,B,26,"Milwaukee, WI",Speeding,WAR,B
+SH,09/30/19 23:48,19.010454,TS,"4000BLK N Newhall St;SH, Shorewood, WI 53211",M,B,19,"Rome, GA",Defective tail light,WAR,B
+SH,09/21/19 19:57,19.010110,TS,"1000BLK E Capitol Dr, Milwaukee, WI 53211",M,I,49,"Shorewood, WI",Operating w/o headlights,WAR,I
+SH,09/01/19 21:32,19.009251,TS,"3700BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,62,"Grafton, WI",Operating w/o headlights,WAR,W
+SH,09/01/19 21:56,19.009253,TS,"1600BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,23,"Fenton, MI",Operating w/o headlights,WAR,W
+SH,09/01/19 23:19,19.009261,TS,"4000BLK N Wilson Dr;SH, Shorewood, WI 53211",F,W,43,"Green Bay, WI",Illegal turn,WAR,W
+SH,09/01/19 23:45,19.009266,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,19,"Milwaukee, WI",Defective brake light,WAR,W
+SH,09/02/19 10:20,19.009283,TS,"700BLK E. Capitol DR; Milwaukee, WI 53211",M,W,67,"Waukesha, WI",Speeding,WAR,W
+SH,09/02/19 22:00,19.009298,TS,"4200BLK N Lake Dr;SH, Shorewood, WI 53211",F,W,18,"Milwaukee, WI",Operating w/o tail lights,WAR,W
+SH,09/02/19 22:06,19.009299,TS,"4400BLK N Lake Dr;SH, Shorewood, WI 53211",M,W,20,"Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/03/19 09:42,19.009314,TS,"3800BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,68,"Milwaukee, WI",Expired registration,WAR,W
+SH,09/03/19 11:47,19.009321,TS,"3700BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,23,"Milwaukee, WI",Non-registration of vehicle,WAR,W
+SH,09/03/19 11:48,19.009322,TS,"3565 N Morris Blvd,BLDG;SH, Shorewood, WI 53211",F,W,64,"Mequon, WI",Illegal turn,WAR,W
+SH,09/04/19 05:51,19.009348,TS,"3500BLK N Lake Dr;SH, Shorewood, WI 53211",F,W,59,"Whitefish Bay, WI",Operating w/o tail lights,WAR,W
+SH,09/04/19 09:45,19.009360,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,70,"Shorewood, WI",Non-registration of vehicle,WAR,W
+SH,09/04/19 11:09,19.009366,TS,"3700BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,71,"Milwaukee, WI",Illegal turn,WAR,W
+SH,09/04/19 16:41,19.009383,TS,"1700BLK E River Park Ct;SH, Shorewood, WI 53211",F,W,55,"Pewaukee, WI",Unreadable license plate,WAR,W
+SH,09/04/19 18:01,19.009388,TS,"1700BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,58,"Glenview, IL",Expired registration,WAR,W
+SH,09/05/19 05:17,19.009407,TS,"1300BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,61,"Shorewood, WI",Failure to use turn signal,WAR,W
+SH,09/05/19 10:42,19.009417,TS,"1600BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,22,"Shorewood, WI",Expired registration,WAR,W
+SH,09/05/19 16:14,19.009431,TS,"E Capitol Dr/ N Humboldt Ave: Milwaukee, WI 53211",M,W,23,"Milwaukee, WI",Defective brake light,WAR,W
+SH,09/05/19 19:10,19.009443,TS,"4000BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,56,"Shorewood, WI",Failure to use turn signal,WAR,W
+SH,09/05/19 19:18,19.009444,TS,"3400BLK N Oakland Ave;Milwaukee, WI 53211",M,W,25,"Mequon, WI",Defective tail light,WAR,W
+SH,09/06/19 02:54,19.009465,TS,"1700BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,28,"Shorewood, WI",Speeding,WAR,W
+SH,09/06/19 03:13,19.009466,TS,"E Capitol Dr/N Prospect Ave;SH, Shorewood, WI 53211",F,W,24,"Mount Pleasant, WI",Operating w/o headlights,WAR,W
+SH,09/06/19 12:00,19.009479,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,18,"Milwaukee, WI",No seatbelt,WAR,W
+SH,09/07/19 02:33,19.009515,TS,"1800BLK E Kenmore Pl;SH, Shorewood, WI 53211",M,W,42,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/07/19 05:40,19.009516,TS,"4500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,31,"Shorewood, WI",Failure to obey a sign,WAR,W
+SH,09/07/19 19:01,19.009529,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,72,"Milwaukee, WI",Illegal turn,WAR,W
+SH,09/07/19 19:33,19.009530,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,57,"Milwaukee, WI",Illegal turn,WAR,W
+SH,09/07/19 20:09,19.009532,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,32,"Wauwatosa, WI",Defective headlight,WAR,W
+SH,09/07/19 20:19,19.009533,TS,"N Oakland Ave/E Jarvis St;SH, Shorewood, WI 53211",M,W,23,"Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/08/19 10:52,19.009559,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,47,"Shorewood, WI",Expired registration,WAR,W
+SH,09/08/19 16:50,19.009567,TS,"3700BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,23,"Manitowoc, WI",Failure to obey a sign,WAR,W
+SH,09/09/19 08:38,19.009583,TS,"1400BLK E Kensington Blvd;SH, Shorewood, WI 53211",M,W,55,"Shorewood, WI",Failure to obey a sign,WAR,W
+SH,09/09/19 10:30,19.009590,TS,"3800BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,42,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/09/19 20:02,19.009604,TS,"3900BLK N Downer Ave;SH, Shorewood, WI 53211",M,W,56,"Shorewood, WI",Operating w/o headlights,WAR,W
+SH,09/10/19 15:59,19.009643,TS,"4200BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,22,"Glendale, WI",Defective brake light,WAR,W
+SH,09/10/19 21:05,19.009652,TS,"4300BLK N Wilson Dr;SH, Shorewood, WI 53211",F,W,75,"Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/11/19 09:31,19.009669,TS,"2500BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,36,"Milwaukee, WI",Unsafe passing,WAR,W
+SH,09/12/19 01:40,19.009693,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,19,"Russellville, AK",Defective headlight,WAR,W
+SH,09/12/19 08:40,19.009700,TS,"1700BLK E Menlo Blvd;SH, Shorewood, WI 53211",F,W,36,"Shorewood, WI",Failure to obey a sign,WAR,W
+SH,09/13/19 09:56,19.009746,TS,"1800BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,65,"Shorewood, WI",No seatbelt,WAR,W
+SH,09/13/19 21:43,19.009766,TS,"3500BLK N Maryland Ave;SH, Shorewood, WI 53211",F,W,46,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/13/19 21:47,19.009767,TS,"3600BLK N Lake Dr;SH, Shorewood, WI 53211",M,W,43,"Shorewood, WI",Operating w/o headlights,WAR,W
+SH,09/13/19 23:32,19.009771,TS,"4200BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,44,"Milwaukee, WI",Defective headlight,WAR,W
+SH,09/14/19 02:01,19.009778,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,31,"Milwaukee, WI",Defective headlight,WAR,W
+SH,09/14/19 02:19,19.009779,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,22,"Milwaukee, WI",Speeding,WAR,W
+SH,09/14/19 07:40,19.009784,TS,"4100BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,35,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/14/19 17:54,19.009797,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,20,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/14/19 19:40,19.009804,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,65,"River Hills, WI",Illegal turn,WAR,W
+SH,09/14/19 20:56,19.009809,TS,"4300BLK N Wilson Dr;SH, Shorewood, WI 53211",F,W,63,"Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/14/19 21:45,19.009813,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,33,"Milwaukee, WI",Display false registration,WAR,W
+SH,09/15/19 11:30,19.009830,TS,"4000BLK N Estabrook Pkwy;SH, Shorewood, WI 53211",M,W,66,"Whitefish Bay, WI",Expired registration,WAR,W
+SH,09/15/19 11:55,19.009831,TS,"4000BLK N Estabrook Pkwy;SH, Shorewood, WI 53211",M,W,22,"Appleton, WI",Speeding,WAR,W
+SH,09/15/19 15:51,19.009836,TS,"1500BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,40,"Milwaukee, WI",Defective brake light,WAR,W
+SH,09/15/19 18:42,19.009840,TS,"2000BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,63,"Glendale, WI",Expired registration,WAR,W
+SH,09/15/19 19:14,19.009842,TS,"3900BLK N Fratney St, Milwaukee, WI 53211",M,W,27,"Milwaukee, WI",Display false registration,WAR,W
+SH,09/16/19 08:45,19.009864,TS,"4500BLK N Estabrook Pkwy;SH, Shorewood, WI 53211",F,W,22,"Elkhart Lake, WI ",Speeding,WAR,W
+SH,09/17/19 13:19,19.009910,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,41,"Milwaukee, WI",Expired registration,WAR,W
+SH,09/17/19 23:31,19.009934,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,21,"Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/18/19 05:44,19.009940,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,24,"Shorewood, WI",Speeding,WAR,W
+SH,09/18/19 08:44,19.009946,TS,"4000BLK N Wilson Dr;SH, Shorewood, WI 53211",F,W,21,"Milwaukee, WI",Speeding,WAR,W
+SH,09/18/19 10:48,19.009947,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",M,W,68,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/18/19 15:11,19.009960,TS,"N Wilson Dr/N Alpine Ave;SH, Shorewood, WI 53211",F,W,56,"Theinsville, WI",Illegal turn,WAR,W
+SH,09/18/19 22:28,19.009974,TS,"3800BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,21,"Waukesha, WI",Failure to obey a sign,WAR,W
+SH,09/19/19 04:32,19.009987,TS,"4100BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,26,"Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/19/19 17:36,19.010007,TS,"3700BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,28,"Shorewood, WI",Defective brake light,WAR,W
+SH,09/19/19 20:18,19.010014,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,20,"South Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/19/19 20:40,19.010016,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,27,"Las Cruces, NM",Operating w/o headlights,WAR,W
+SH,09/20/19 16:50,19.010053,TS,"1500BLK E Newton Ave, Shorewood, WI 53211",M,W,57,"Oak Creek, WI",Failure to obey a sign,WAR,W
+SH,09/20/19 16:58,19.010054,TS,"3600BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,50,"Shorewood, WI",Failure to obey a sign,WAR,W
+SH,09/20/19 19:39,19.010060,TS,"4000BLK N Wilson Dr;SH, Shorewood, WI 53211",F,W,36,"Whitefish Bay, WI",Defective headlight,WAR,W
+SH,09/20/19 20:21,19.010061,TS,"3900BLK N Richards St, Milwaukee, WI 53211",F,W,34,"Milwaukee, WI",Suspended registration,WAR,W
+SH,09/20/19 20:33,19.010062,TS,"E Capitol Dr/N Prospect Ave;SH, Shorewood, WI 53211",M,W,16,"Brookfield, WI",Operating w/o headlights,WAR,W
+SH,09/20/19 20:37,19.010063,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,54,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/20/19 20:51,19.010064,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,29,"Sullivan, WI",Expired registration,WAR,W
+SH,09/21/19 22:15,19.010112,TS,"4000BLK N Wilson Dr;SH, Shorewood, WI 53211",M,W,74,"Shorewood, WI",Defective headlight,WAR,W
+SH,09/22/19 09:00,19.010127,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,42,"Glendale, WI",Failure to obey a sign,WAR,W
+SH,09/23/19 01:42,19.010152,TS,"4000BLK N Prospect Ave;SH, Shorewood, WI 53211",M,W,45,"Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/23/19 14:26,19.010172,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,46,"Waukesha, WI",Failure to obey traffic signal,WAR,W
+SH,09/23/19 17:23,19.010178,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,51,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/23/19 19:50,19.010190,TS,"4000BLK N Lake Dr;SH, Shorewood, WI 53211",F,W,27,"Glendale, WI",Operating w/o headlights,WAR,W
+SH,09/23/19 21:01,19.010193,TS,"3800BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,23,"Chicago, IL",Operating w/o headlights,WAR,W
+SH,09/24/19 06:03,19.010217,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",M,W,23,"Janesville, WI",Failure to obey a sign,WAR,W
+SH,09/24/19 06:31,19.010219,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,60,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/24/19 06:32,19.010220,TS,"4300BLK N Wilson Dr;SH, Shorewood, WI 53211",F,W,62,"Bayside, WI",Speeding,WAR,W
+SH,09/24/19 15:48,19.010236,TS,"2521 E Capitol Dr,LOT;SH, Shorewood, WI 53211",F,W,24,"Cambridge, WI",Defective brake light,WAR,W
+SH,09/24/19 19:57,19.010243,TS,"4300BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,68,"Milwaukee, WI",Defective brake light,WAR,W
+SH,09/25/19 06:00,19.010262,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,52,"Shorewood, WI",Operating w/o headlights,WAR,W
+SH,09/25/19 08:22,19.010269,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",M,W,44,"Cedarburg, WI",Illegal turn,WAR,W
+SH,09/25/19 09:33,19.010270,TS,"4600BLK N Wilson Dr,PARK;WF, Whitefish Bay, WI 53211",M,W,31,"Shorewood, WI",Speeding,WAR,W
+SH,09/25/19 15:35,19.010280,TS,"3700BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,22,"Park City, IL",Failure to yield right of way,WAR,W
+SH,09/25/19 18:42,19.010285,TS,"4200BLK N Oakland Ave;SH, Shorewood, WI 53211",F,W,39,"Milwaukee, WI",Unreadable license plate,WAR,W
+SH,09/25/19 20:21,19.010292,TS,"4600BLK N Lake Dr;WF, Whitefish Bay, WI 53217",M,W,31,"Whitefish Bay, WI",Defective tail light,WAR,W
+SH,09/26/19 09:09,19.010315,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,60,"Milwaukee, WI",Failure to obey a sign,WAR,W
+SH,09/26/19 14:09,19.010320,TS,"3600BLK N Morris Blvd;SH, Shorewood, WI 53211",M,W,75,"Washington Island, WI",Failure to yield right of way,WAR,W
+SH,09/26/19 15:43,19.010323,TS,"3900BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,26,"Milwaukee, WI",Illegal turn,WAR,W
+SH,09/27/19 13:20,19.010361,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,25,"Milwaukee, WI",Failure to obey traffic signal,WAR,W
+SH,09/28/19 04:18,19.010381,TS,"2500BLK E Capitol Dr;SH, Shorewood, WI 53211",M,W,25,"Campbellsport, WI",Speeding,WAR,W
+SH,09/28/19 09:26,19.010387,TS,"3800BLK N Morris Blvd;SH, Shorewood, WI 53211",F,W,51,"Whitefish Bay, WI",Failure to obey a sign,WAR,W
+SH,09/28/19 11:58,19.010391,TS,"3500BLK N Oakland Ave;SH, Shorewood, WI 53211",M,W,39,"Shorewood, WI",Illegal turn,WAR,W
+SH,09/30/19 05:44,19.010427,TS,"1300BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,30,"Milwaukee, WI",Operating w/o headlights,WAR,W
+SH,09/30/19 05:58,19.010428,TS,"N Oakland Ave/E Shorewood Blvd;SH, Shorewood, WI 53211",M,W,63,"Glendale, WI",Operating w/o headlights,WAR,W
+SH,09/30/19 06:00,19.010429,TS,"4100BLK N Wilson Dr;SH, Shorewood, WI 53211",F,W,25,"Milwaukee, WI",Speeding,WAR,W
+SH,09/30/19 12:36,19.010437,TS,"1100BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,22,"Shorewood, WI",Expired registration,WAR,W
+SH,09/30/19 23:57,19.010457,TS,"1600BLK E Capitol Dr;SH, Shorewood, WI 53211",F,W,19,"Shorewood, WI",Speeding,WAR,W
